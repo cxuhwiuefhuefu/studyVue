@@ -36,7 +36,7 @@ export default {
   padding-bottom: 2px;
 }
 
-.header center{
+.header .center{
   display: flex;
   justify-content: space-between;
   width: 1000px;
